@@ -1,4 +1,4 @@
-package com.ehp.clase1;
+package com.ehp.clase3;
 
 import org.junit.Test;
 

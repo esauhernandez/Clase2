@@ -1,4 +1,4 @@
-package com.ehp.clase1;
+package com.ehp.clase3;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -16,9 +16,10 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.ehp.clase1.fragmentss.CameraFragment;
-import com.ehp.clase1.fragmentss.GalleryFragment;
-import com.ehp.clase1.fragmentss.SlideshowFragment;
+import com.ehp.clase1.R;
+import com.ehp.clase3.fragmentss.CameraFragment;
+import com.ehp.clase3.fragmentss.GalleryFragment;
+import com.ehp.clase3.fragmentss.SlideshowFragment;
 
 public class NavigationActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
